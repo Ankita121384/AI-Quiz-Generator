@@ -21,3 +21,13 @@ An AI-powered quiz generator that creates custom MCQ quizzes on any topic instan
 
 ## 🚀 How to Run Locally
 1. Clone the repository:
+git clone
+https://github.com/Ankita121384/AI-Quiz-Generator.git
+2. Install dependencies:
+pip install -r requirements.txt
+3. Create `.env` file:
+GROQ_API_KEY=your_key_here
+4. Run the app:
+streamlit run app.py
+## 👩‍💻 About
+Built by **Ankita Dwivedi** as an AI portfolio project for internship applications.
